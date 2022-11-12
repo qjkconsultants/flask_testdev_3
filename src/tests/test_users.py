@@ -1,6 +1,5 @@
 import json
 
-
 from src.api.models import User
 
 
